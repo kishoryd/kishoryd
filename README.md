@@ -1,21 +1,50 @@
-<h1 align="center">Hi 👋, I'm kishor y d</h1>
-<h3 align="center">A passionate Big Data Professional</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kishor</h1>
+<h3 align="center">I'm a passionate Data Science Aspirant</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishoryd&label=Profile%20views&color=0e75b6&style=flat" alt="kishoryd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🙋‍♂️ About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently pursuing PG diploma in Big Data Analytics
+
+- 🌱 I’m currently learning **Data Science Technology, its Tools and SQL.**
+
+- 👯 I’m looking to collaborate on **Data Science Projects**
+
+- 📫 How to reach me -    **[LinkedIn](https://linkedin.com/in/kishor-yd)**,  **:mailbox_with_no_mail: kishor.y.d@gmail.com**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/></a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/undefined/panda.png"/> </a>
+    <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/numpy.png"/> </a>
+    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/undefined/jupyter.png"/> </a> 
+</p>
+        
+        
+## 📊 My Github Stats
+
+  <br/>
+   <img src = "https://github-readme-stats.vercel.app/api?username=kishoryd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img alt="J kishor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoryd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <br/>
+  
+<br/>
+<br/>
+
+## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/kishor-yd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishor damodar" height="30" width="40" /></a>
+
+<a href = "https://www.linkedin.com/in/kishor-yd/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a  </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishoryd&show_icons=true&locale=en&layout=compact" alt="kishoryd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishoryd&show_icons=true&locale=en" alt="kishoryd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishoryd&" alt="kishoryd" /></p>
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kishoryd">
+</a>
+<a href="https://github.com/kishoryd?tab=followers"><img src="https://img.shields.io/github/followers/kishoryd?label=Followers&style=social" alt="GitHub Badge"></a>
