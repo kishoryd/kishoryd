@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently pursuing PG diploma in Big Data Analytics
-- 
+
 - 👀 I’m certified DataScience proffesional from coursera associated with IBM.
 
 - 🌱 I’m currently learning **Data Science Technology, its Tools and SQL.**
