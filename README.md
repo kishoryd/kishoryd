@@ -1,22 +1,31 @@
-## 📊about_me:
-  - "🔭 I’m currently an employee at CDAC under the Ministry of Electronics and Information Technology, India."
-  - "👀 I hold a Diploma of Education in Big Data Analytics from the Institute for Advanced Computing and Software Development (IACSD)."
-    key_skills:
-      - "Data Analytics"
-      - "Data Visualization"
-      - "Machine Learning"
-      - "Deep Learning"
-  - "🌱 I completed my Bachelor of Engineering (BE) in Electrical and Electronics Engineering from the N M A M Institute of Technology (NITTE)."
-    details:
-      duration: "2013 - 2017"
-      grade: "8.18 GPA"
-  - "👯 I’m looking to collaborate on Data Science Projects."
-  - "🖥️ My Work at CDAC:"
-    - "Comprehensive benchmarking of NVIDIA A100 GPUs on PARAM Rudra (supercomputer) for computer vision and large language model (LLM) tasks."
-    - "Optimized training and inference of LLaMA models on Intel Gaudi2 accelerators, leveraging 96 GB HBM2E memory and 100 Gbps Ethernet for efficient large-scale AI workloads."
-    - "Developed an AI-driven SLURM scheduler for dynamic resource allocation in HPC clusters, integrating machine learning to optimize job scheduling and enhance utilization."
+## 📊 About Me:
 
-- 📫 How to reach me -    **[LinkedIn](https://linkedin.com/in/kishor-yd)**,  **:mailbox_with_no_mail: kishor.y.d@gmail.com/kishoryd@cdac.in**
+- **🔭 Currently an employee at CDAC** under the **Ministry of Electronics and Information Technology, India.**
+
+- **👀 Educational Background:**
+  - **Diploma of Education in Big Data Analytics**  
+    - **Institute**: Institute for Advanced Computing and Software Development (IACSD)  
+    - **Key Skills**:
+      - **Data Analytics**
+      - **Data Visualization**
+      - **Machine Learning**
+      - **Deep Learning**
+
+  - **Bachelor of Engineering (BE)** in **Electrical and Electronics Engineering**  
+    - **Institute**: N M A M Institute of Technology (NITTE)  
+
+- **👯 Looking to collaborate** on **Data Science Projects.**
+
+- **🖥️ Work at CDAC:**
+  1. **Comprehensive benchmarking of NVIDIA A100 GPUs** on **PARAM Rudra (supercomputer)** for computer vision and large language model (LLM) tasks.
+  2. **Optimized training and inference of LLaMA models** on **Intel Gaudi2 accelerators**
+  3. **Developed an AI-driven SLURM scheduler** for:
+     - **Dynamic resource allocation** in HPC clusters.
+     - **Optimized job scheduling**, enhancing utilization and reducing overhead.
+
+- **📫 How to reach me:**
+  - **[LinkedIn Profile](https://linkedin.com/in/kishor-yd)**
+  - **Email**: kishor.y.d@gmail.com / kishoryd@cdac.in  
  
 ## 📊 My Github Stats
 
