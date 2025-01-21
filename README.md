@@ -1,14 +1,35 @@
+---
+
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing PG diploma in Big Data Analytics
+- 🔭 I’m currently an employee at **CDAC** under the **Ministry of Electronics and Information Technology, India**.
+  
+- 👀 I hold a **Diploma of Education in Big Data Analytics** from the **Institute for Advanced Computing and Software Development (IACSD)**.  
+  - **Key Skills**:  
+    - **Data Analytics**, **Data Visualization**, **Machine Learning**, and **Deep Learning**
 
-- 👀 I’m certified DataScience proffesional from coursera associated with IBM.
+- 🌱 I completed my **Bachelor of Engineering (BE) in Electrical and Electronics Engineering** from the **N M A M Institute of Technology (NITTE)**.  
 
-- 🌱 I’m currently learning **Data Science Technology, its Tools and SQL.**
+- 👯 I’m looking to collaborate on **Data Science Projects**.
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 🖥️ **My Work at CDAC**:
+  1. Comprehensive benchmarking of **NVIDIA A100 GPUs** on **PARAM Rudra** (supercomputer) for computer vision and large language model (LLM) tasks.
+  2. Optimized training and inference of **LLaMA models** on **Intel Gaudi2 accelerators**, leveraging **96 GB HBM2E memory** and **100 Gbps Ethernet** for efficient large-scale AI workloads.
+  3. Developed an **AI-driven SLURM scheduler** for dynamic resource allocation in HPC clusters, integrating machine learning to optimize job scheduling and enhance utilization.
 
-- 📫 How to reach me -    **[LinkedIn](https://linkedin.com/in/kishor-yd)**,  **:mailbox_with_no_mail: kishor.y.d@gmail.com**
+- 📫 How to reach me:
+  - **[LinkedIn](https://linkedin.com/in/kishor-yd)**
+  - **:mailbox_with_no_mail:** kishor.y.d@gmail.com / kishoryd@cdac.in
+
+---
+
+This version ensures the NMAMIT section is consistent in format and aligns with the rest of the content. Let me know if you need further refinements!
+
+---
+
+This version retains only the most relevant details about your education, work, and skills. Let me know if you'd like to tweak it further!
+
+- 📫 How to reach me -    **[LinkedIn](https://linkedin.com/in/kishor-yd)**,  **:mailbox_with_no_mail: kishor.y.d@gmail.com/kishoryd@cdac.in**
  
 ## 📊 My Github Stats
 
